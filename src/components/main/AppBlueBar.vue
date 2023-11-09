@@ -42,6 +42,10 @@
 </script>
 
 <style lang="scss" scoped>
+    span {
+        color: white;
+    }
+
     img {
         width: 40px;
     }
