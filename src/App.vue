@@ -1,9 +1,9 @@
 <template>
   <div class="container">
     <AppHeader />
+  </div>
     <AppMainContent />
     <AppFooter />
-  </div>
   
 </template>
 
