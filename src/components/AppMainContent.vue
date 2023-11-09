@@ -1,10 +1,10 @@
 <template>
     <div class="bg-dark">
         <div class="container">
-            <h1 class="m-0"><a href="">Content</a></h1>
+            <h1 class="m-0 text-white">Content</h1>
         </div>   
     </div>
-    <div class="bg-primary d-flex">
+    <div class="bg-primary d-flex py-4">
         <AppBlueBar />
     </div>    
 </template>
