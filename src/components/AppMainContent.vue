@@ -1,11 +1,23 @@
 <template>
-    <h1><a href="">Content</a></h1>
+    <div class="bg-dark">
+        <div class="container">
+            <h1 class="m-0"><a href="">Content</a></h1>
+        </div>   
+    </div>
+    <div class="bg-primary d-flex">
+        <AppBlueBar />
+    </div>
+    
 </template>
 
 <script>
+    import AppBlueBar from './main/AppBlueBar.vue'
+
     export default {
-        nome: 'AppMainContent'
-        
+        nome: 'AppMainContent',
+        components: {
+            AppBlueBar
+        }
     }
 </script>
 
