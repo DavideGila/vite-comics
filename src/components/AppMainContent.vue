@@ -6,8 +6,7 @@
     </div>
     <div class="bg-primary d-flex">
         <AppBlueBar />
-    </div>
-    
+    </div>    
 </template>
 
 <script>
@@ -17,7 +16,7 @@
         nome: 'AppMainContent',
         components: {
             AppBlueBar
-        }
+        },
     }
 </script>
 
