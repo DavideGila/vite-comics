@@ -1,7 +1,5 @@
 <template>
-    <div>
-        Main
-    </div>
+    <h1><a href="">Content</a></h1>
 </template>
 
 <script>
@@ -12,5 +10,7 @@
 </script>
 
 <style lang="scss" scoped>
-
+    a {
+        text-decoration: none;
+    }
 </style>
