@@ -1,5 +1,5 @@
 <template>
-    <div class="col-2">
+    <div class="col-2 py-5">
         <div>
             <img :src="img" :alt="title"/>
             <div>
