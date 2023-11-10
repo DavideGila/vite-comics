@@ -3,7 +3,7 @@
         <div>
             <img :src="img" :alt="title" class="object-fit-cover"/>
             <div>
-                <h6 class="title text-light">{{ title }}</h6>
+                <h6 class="title text-light text-uppercase">{{ title }}</h6>
             </div>
         </div>
     </div>

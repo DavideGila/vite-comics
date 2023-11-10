@@ -1,9 +1,12 @@
 <template>
     <div class="bg-dark">
         <div class="container">
-            <span class="text-light bg-primary p-3 fs-3">Current Series</span>
+            <span class="text-light bg-primary p-3 fs-3 text-uppercase">Current Series</span>
             <div class="row">
                 <Props v-for="comic in comics" :img='comic.thumb' :title='comic.series' />
+            </div>
+            <div class="text-center pb-3">
+                <button class="btn btn-primary">LOAD MORE</button>
             </div>
         </div>
     </div>

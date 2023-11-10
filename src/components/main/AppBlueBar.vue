@@ -2,7 +2,7 @@
     <div class="container d-flex justify-content-between align-items-center p-3">
         <div v-for="el in blueBar">
             <img :src="el.img" alt="">
-            <span class="p-2">{{ el.text }}</span>       
+            <span class="p-2 text-uppercase">{{ el.text }}</span>       
         </div>
     </div>
     
