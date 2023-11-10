@@ -1,6 +1,7 @@
 <template>
     <div class="bg-dark">
         <div class="container">
+            <span class="text-light bg-primary p-3 fs-3">Current Series</span>
             <div class="row">
                 <Props v-for="comic in comics" :img='comic.thumb' :title='comic.series' />
             </div>
