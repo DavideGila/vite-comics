@@ -1,7 +1,7 @@
 <template>
     <div class="col-2 py-5">
         <div>
-            <img :src="img" :alt="title"/>
+            <img :src="img" :alt="title" class="object-fit-cover"/>
             <div>
                 <h6 class="title text-light">{{ title }}</h6>
             </div>
@@ -24,6 +24,7 @@ export default {
 img {
   width: 200px;
   height: 200px;
+  object-position: top;
 }
 .title {
   width: 90%;
