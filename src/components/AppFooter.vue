@@ -33,11 +33,11 @@
             </div>
             <div class="d-flex">
                 <h4 class="pe-4">FOLLOW US</h4>
-                <img src="/public/img/footer-facebook.png" alt="" class="pe-4">
-                <img src="/public/img/footer-twitter.png" alt="" class="pe-4">
-                <img src="/public/img/footer-youtube.png" alt="" class="pe-4">
-                <img src="/public/img/footer-pinterest.png" alt="" class="pe-4">
-                <img src="/public/img/footer-periscope.png" alt="">
+                <img src="/img/footer-facebook.png" alt="" class="pe-4">
+                <img src="/img/footer-twitter.png" alt="" class="pe-4">
+                <img src="/img/footer-youtube.png" alt="" class="pe-4">
+                <img src="/img/footer-pinterest.png" alt="" class="pe-4">
+                <img src="/img/footer-periscope.png" alt="">
             </div>
         </div>
     </div>
